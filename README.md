@@ -29,4 +29,4 @@
 - Not done to avoid extra costs but has appropriate base: HTTPS with ALB+ACM, Docker/ECS, Route 53 custom domain.
 
 ## Medium Article
-👉 [Read the full write-up] -> https://medium.com/@barisaygen7/build-your-first-cloud-ai-engineering-project-aws-b85e8314f24f
+👉 [Read the full write-up] -> https://medium.com/aws-in-plain-english/build-your-first-cloud-ai-engineering-project-aws-b85e8314f24f
